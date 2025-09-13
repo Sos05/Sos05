@@ -6,6 +6,6 @@
 ![Sos05's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sos05&show_icons=true&theme=tokyonight)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?pause=2500&speed=50&lines=Get+out+of+here+please.;There%E2%80%99s+literally+nothing+down+here.;Why+are+you+waiting+here%3F;Stop.+Seriously.;Do+you+think+there%E2%80%99s+a+hidden+feature%3F+There+isn%E2%80%99t.;This+is+just+text.+Plain+text.;Wow,+you%E2%80%99re+committed.+Respect%E2%80%A6+but+also+leave.;Fine.+If+you%E2%80%99re+still+here,+you+officially+wasted+your+time.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?pause=2500&speed=50&lines=Get+out+of+here.;There%E2%80%99s+nothing+down+here.;Why+are+you+waiting%3F;Stop.+Seriously.;Think+there%E2%80%99s+a+feature%3F+Nope.;Just+plain+text.;Wow,+you%E2%80%99re+committed.+Respect%E2%80%A6;Still+here%3F+You+wasted+your+time.)](https://git.io/typing-svg)
 
 
