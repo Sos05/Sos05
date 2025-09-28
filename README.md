@@ -1,7 +1,7 @@
 # 💻 Dev Mode: ON
 
-### 🔎 About me
-- Something about me <a href="https://discord.com/users/563382607727820801"><img src="https://discord.c99.nl/widget/theme-3/563382607727820801.png" alt="Discord Widget" width="350" align="right"/></a>
+### 🔎 About me <a href="https://discord.com/users/563382607727820801"><img src="https://discord.c99.nl/widget/theme-3/563382607727820801.png" alt="Discord Widget" width="350" align="right"/></a>
+- Something about me 
 - Something else
 - fwgggdfgdxgxdgdx 
 
