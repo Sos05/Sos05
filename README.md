@@ -15,8 +15,6 @@
 
 
 ![undertale_text_box_undertale-papyrus_default_1759077610785](https://github.com/user-attachments/assets/c084734e-b9c6-4ea4-81f6-0e89ebaad5db)
-![undertale_text_box_undertale-sans_blue-eye_1759078313713](https://github.com/user-attachments/assets/2780dcd4-8cb1-49a6-82d8-829b6fe6f1ca)
-
 
 
 
