@@ -1,6 +1,4 @@
 # Sos05 
-
-Your banners:
 [![Discord Presence](https://lanyard.cnrad.dev/api/563382607727820801?idleMessage=AFK)](https://discord.com/users/563382607727820801)
 
 ![Sos05's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sos05&show_icons=true&theme=tokyonight)
