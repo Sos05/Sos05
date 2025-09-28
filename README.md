@@ -1,4 +1,4 @@
-# Dev Mode: ON
+# 👨‍💻 Dev Mode: ON
 
 [![Discord Widget](https://discord.c99.nl/widget/theme-3/563382607727820801.png)](https://discord.com/users/563382607727820801)
 
