@@ -1,4 +1,5 @@
 # 💻 Dev Mode: ON
+## 🔎 About me
 
 <p align="right">
   <a href="https://discord.com/users/563382607727820801">
@@ -6,7 +7,6 @@
   </a>
 </p>
 
-## 🔎 About me
 - I’m a developer passionate about games, AI, and web technologies
 - Currently learning Rust, React, and Docker
 - Fun fact: I love Undertale and adding a bit of chaos to my projects
