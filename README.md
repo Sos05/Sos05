@@ -1,6 +1,6 @@
 # 💻 Dev Mode: ON
 
-### 🔎 About me <a href="https://discord.com/users/563382607727820801"><img src="https://discord.c99.nl/widget/theme-3/563382607727820801.png" alt="Discord Widget" width="304" align="right"/></a>
+### 🔎 About me <a href="https://discord.com/users/563382607727820801"><img src="https://discord.c99.nl/widget/theme-3/563382607727820801.png" alt="Discord Widget" width="300" align="right"/></a>
 
 👨‍🎓 Currently studying **BUT3: Secure and Communicating Application Deployment** at **IUT of Lille**<br>
 🛡️ Interested in networking & cybersecurity<br>
