@@ -1,11 +1,11 @@
 # Sos05 
 
 Your banners:
-<https://discord.c99.nl/widget/theme-1/563382607727820801.png> (Default banner)
-<https://discord.c99.nl/widget/theme-2/563382607727820801.png> (Custom background)
-<https://discord.c99.nl/widget/theme-3/563382607727820801.png> (Custom background)
-<https://discord.c99.nl/widget/theme-4/563382607727820801.png> (Transparent, white text)
-<https://discord.c99.nl/widget/theme-5/563382607727820801.png> (Transparent, black text)
+<https://discord.c99.nl/widget/theme-1/563382607727820801.png>
+<https://discord.c99.nl/widget/theme-2/563382607727820801.png>
+<https://discord.c99.nl/widget/theme-3/563382607727820801.png>
+<https://discord.c99.nl/widget/theme-4/563382607727820801.png>
+<https://discord.c99.nl/widget/theme-5/563382607727820801.png>
 
 ![Sos05's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sos05&show_icons=true&theme=tokyonight)
 
