@@ -10,7 +10,7 @@
 
 
 ## 🎯 Skills
-<a href="#"><img src="https://github.com/user-attachments/assets/c084734e-b9c6-4ea4-81f6-0e89ebaad5db" alt="Undertale Papyrus" width="250" align="right"/></a>
+<a href="#"><img src="https://github.com/user-attachments/assets/c084734e-b9c6-4ea4-81f6-0e89ebaad5db" alt="Undertale Papyrus" width="350" align="right"/></a>
 
 ### 🌐 Web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
