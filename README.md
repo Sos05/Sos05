@@ -1,4 +1,4 @@
-# 💻 Dev Mode: ON
+# 🔓 Dev Mode: ON
 
 ## 🔎 About me <a href="https://discord.com/users/563382607727820801"><img src="https://discord.c99.nl/widget/theme-3/563382607727820801.png" alt="Discord Widget" width="380" align="right"/></a>
 
