@@ -1,15 +1,15 @@
 # 💻 Dev Mode: ON
 
-## 🔎 About me
+### 🔎 About me
 - Something about me
 - Something else
 - <a href="https://discord.com/users/563382607727820801"><img src="https://discord.c99.nl/widget/theme-3/563382607727820801.png" alt="Discord Widget" width="250" align="right"/></a>
 
 ![Sos05's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sos05&show_icons=true&theme=tokyonight)
 
-## 🎯 Skills
+### 🎯 Skills
 
-## ⭐ Projects
+### ⭐ Projects
 
 ![undertale_text_box_undertale-papyrus_default_1759077610785](https://github.com/user-attachments/assets/c084734e-b9c6-4ea4-81f6-0e89ebaad5db)
 
