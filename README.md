@@ -1,9 +1,9 @@
 # 💻 Dev Mode: ON
 
 ### 🔎 About me <a href="https://discord.com/users/563382607727820801"><img src="https://discord.c99.nl/widget/theme-3/563382607727820801.png" alt="Discord Widget" width="350" align="right"/></a>
-- Something about me 
-- Something else
-- fwgggdfgdxgxdgdx 
+hfhhgfjgdjkdwk
+xfghfghfgjxjx
+xfgjkwslmklwmvdvk
 
 ![Sos05's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sos05&show_icons=true&theme=tokyonight)
 
