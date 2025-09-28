@@ -32,8 +32,8 @@
 
 
 ## ⭐ Projects
-- **[BOBOLE-BOT](https://github.com/Sos05/BOBOLE-BOT/)** – A personal Discord utility bot (in progress) 🛠️  
-  ![Progress](https://img.shields.io/badge/Progress-40%25-yellow)
+- **[BOBOLE-BOT](https://github.com/Sos05/BOBOLE-BOT/)** – A personal Discord utility bot 🛠️  
+  ![Status](https://img.shields.io/badge/Status-Under%20Development-orange)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?pause=2500&speed=50&lines=Get+out+of+here.;There%E2%80%99s+nothing+down+here.;Why+are+you+waiting%3F;Stop.+Seriously.;Think+there%E2%80%99s+a+feature%3F+Nope.;Just+plain+text.;Wow,+you%E2%80%99re+committed.+Respect%E2%80%A6;Still+here%3F+You+wasted+your+time.)](https://git.io/typing-svg)
