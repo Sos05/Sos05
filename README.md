@@ -1,6 +1,11 @@
 # Sos05 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/563382607727820801?idleMessage=AFK)](https://discord.com/users/563382607727820801)
+Your banners:
+<https://discord.c99.nl/widget/theme-1/563382607727820801.png> (Default banner)
+<https://discord.c99.nl/widget/theme-2/563382607727820801.png> (Custom background)
+<https://discord.c99.nl/widget/theme-3/563382607727820801.png> (Custom background)
+<https://discord.c99.nl/widget/theme-4/563382607727820801.png> (Transparent, white text)
+<https://discord.c99.nl/widget/theme-5/563382607727820801.png> (Transparent, black text)
 
 ![Sos05's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sos05&show_icons=true&theme=tokyonight)
 
