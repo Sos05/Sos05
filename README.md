@@ -31,7 +31,7 @@
 ### 🌐 Networking
 ![Networking](https://img.shields.io/badge/Networking-Basics-blue?style=for-the-badge&logo=cisco&logoColor=white)
 
-    </td>
+  </td>
     <td>
       <img src="https://github.com/user-attachments/assets/c084734e-b9c6-4ea4-81f6-0e89ebaad5db" alt="Undertale Papyrus" width="250"/>
     </td>
