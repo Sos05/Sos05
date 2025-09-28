@@ -9,3 +9,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?pause=2500&speed=50&lines=Get+out+of+here.;There%E2%80%99s+nothing+down+here.;Why+are+you+waiting%3F;Stop.+Seriously.;Think+there%E2%80%99s+a+feature%3F+Nope.;Just+plain+text.;Wow,+you%E2%80%99re+committed.+Respect%E2%80%A6;Still+here%3F+You+wasted+your+time.)](https://git.io/typing-svg)
 
 
+![undertale_text_box_undertale-papyrus_default_1759077610785](https://github.com/user-attachments/assets/c084734e-b9c6-4ea4-81f6-0e89ebaad5db)
