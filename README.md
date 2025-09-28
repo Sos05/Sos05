@@ -1,7 +1,7 @@
 # 💻 Dev Mode: ON
 
 ## 🔎 About me
--                     [![Discord Widget](https://discord.c99.nl/widget/theme-3/563382607727820801.png)](https://discord.com/users/563382607727820801)
+- [![Discord Widget](https://discord.c99.nl/widget/theme-3/563382607727820801.png)](https://discord.com/users/563382607727820801)
 - 
 - 
 
