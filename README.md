@@ -10,7 +10,6 @@
 
 
 ## 🎯 Skills
-<a href="#"><img src="https://github.com/user-attachments/assets/c084734e-b9c6-4ea4-81f6-0e89ebaad5db" alt="Undertale Papyrus" width="350" align="right"/></a>
 
 ### 🌐 Web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -20,6 +19,8 @@
 
 ### 🗄️ Databases
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+<a href="#"><img src="https://github.com/user-attachments/assets/c084734e-b9c6-4ea4-81f6-0e89ebaad5db" alt="Undertale Papyrus" width="350" align="right"/></a>
 
 ### 💻 Programming
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
