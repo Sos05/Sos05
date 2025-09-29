@@ -20,8 +20,6 @@
 ### 🗄️ Databases
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<a href="#"><img src="https://github.com/user-attachments/assets/c084734e-b9c6-4ea4-81f6-0e89ebaad5db" alt="Undertale Papyrus" width="350" align="right"/></a>
-
 ### 💻 Programming
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -29,7 +27,7 @@
 ### 🌐 Networking
 ![Networking](https://img.shields.io/badge/Networking-Basics-blue?style=for-the-badge&logo=cisco&logoColor=white)
 
-
+<a href="#"><img src="https://github.com/user-attachments/assets/c084734e-b9c6-4ea4-81f6-0e89ebaad5db" alt="Undertale Papyrus" width="350" align="right"/></a>
 
 ## ⭐ Projects
 - **[BOBOLE-BOT](https://github.com/Sos05/BOBOLE-BOT/)** – A personal Discord utility bot 🛠️  
