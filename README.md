@@ -28,7 +28,7 @@
 ![Networking](https://img.shields.io/badge/Networking-Basics-blue?style=for-the-badge&logo=cisco&logoColor=white)
 
 
-## ⭐ Projects <a href="#"><img src="https://github.com/user-attachments/assets/c084734e-b9c6-4ea4-81f6-0e89ebaad5db" alt="Undertale Papyrus" width="350" align="right"/></a>
+## ⭐ Projects
 - **[BOBOLE-BOT](https://github.com/Sos05/BOBOLE-BOT/)** – A personal Discord utility bot 🛠️  
   ![Status](https://img.shields.io/badge/Status-Under%20Development-orange)
 
