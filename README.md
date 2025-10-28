@@ -7,6 +7,7 @@
 👨‍🎓 Currently studying **BUT3: Secure and Communicating Application Deployment** at **IUT of Lille**<br>
 
 ![Sos05's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sos05&show_icons=true&theme=tokyonight)
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6051536" style='border:none;'></iframe>
 
 
 ## 🎯 Skills
