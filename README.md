@@ -32,7 +32,7 @@
 - **[BOBOLE-BOT](https://github.com/Sos05/BOBOLE-BOT/)** – A personal Discord utility bot 🛠️
 ![Static Badge](https://img.shields.io/badge/Status-Completed%20Active%20maintenance-green)
 
-- **[DNS-Home-Server](#)** – Local DNS server for ad blocking (Pi-hole) 🛡️
+- **[DNS-Home-Server](https://github.com/Sos05/DNS-Home-Server/)** – Local DNS server for ad blocking (Pi-hole) 🛡️
 ![Static Badge](https://img.shields.io/badge/Status-In%20Progress-orange)
 
 
