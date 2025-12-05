@@ -21,13 +21,19 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
+### ⚙️ Hardware
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
+
 ### 🌐 Networking
 ![Networking](https://img.shields.io/badge/Networking-Basics-blue?style=for-the-badge&logo=cisco&logoColor=white)
 
 
 ## ⭐ Projects
-- **[BOBOLE-BOT](https://github.com/Sos05/BOBOLE-BOT/)** – A personal Discord utility bot 🛠️  
+- **[BOBOLE-BOT](https://github.com/Sos05/BOBOLE-BOT/)** – A personal Discord utility bot 🛠️
 ![Static Badge](https://img.shields.io/badge/Status-Completed%20Active%20maintenance-green)
+
+- **[DNS-Home-Server](#)** – Local DNS server for ad blocking (Pi-hole) 🛡️
+![Static Badge](https://img.shields.io/badge/Status-En%20D%C3%A9veloppement-orange)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?pause=2500&speed=50&lines=Get+out+of+here.;There%E2%80%99s+nothing+down+here.;Why+are+you+waiting%3F;Stop.+Seriously.;Think+there%E2%80%99s+a+feature%3F+Nope.;Just+plain+text.;Wow,+you%E2%80%99re+committed.+Respect%E2%80%A6;Still+here%3F+You+wasted+your+time.)](https://git.io/typing-svg)
