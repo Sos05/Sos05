@@ -6,9 +6,6 @@
 👨‍💻 I code for fun and learning<br>
 👨‍🎓 Currently studying **BUT3: Secure and Communicating Application Deployment** at **IUT of Lille**<br>
 
-![Sos05's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sos05&show_icons=true&theme=tokyonight)
-
-
 ## 🎯 Skills
 
 ### 🌐 Web
