@@ -33,7 +33,7 @@
 ![Static Badge](https://img.shields.io/badge/Status-Completed%20Active%20maintenance-green)
 
 - **[DNS-Home-Server](https://github.com/Sos05/DNS-Home-Server/)** – Local DNS server for ad blocking (Pi-hole) 🛡️
-![Static Badge](https://img.shields.io/badge/Status-In%20Progress-orange)
+![Static Badge](https://img.shields.io/badge/Status-Completed-green)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?pause=2500&speed=50&lines=Get+out+of+here.;There%E2%80%99s+nothing+down+here.;Why+are+you+waiting%3F;Stop.+Seriously.;Think+there%E2%80%99s+a+feature%3F+Nope.;Just+plain+text.;Wow,+you%E2%80%99re+committed.+Respect%E2%80%A6;Still+here%3F+You+wasted+your+time.)](https://git.io/typing-svg)
