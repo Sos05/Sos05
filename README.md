@@ -4,7 +4,7 @@
 
 🛡️ Interested in networking & cybersecurity<br>
 👨‍💻 I code for fun and learning<br>
-👨‍🎓 Currently studying **BUT3: Secure and Communicating Application Deployment** at **IUT of Lille**<br>
+👨‍🎓 Currently studying **BUT3: Secure and Communicating Application Deployment** at the **IUT of Lille**<br>
 
 ## 🎯 Skills
 
