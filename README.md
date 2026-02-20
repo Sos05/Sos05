@@ -39,4 +39,4 @@
 ![Static Badge](https://img.shields.io/badge/Status-Completed-green)
 
 - **[Projet Ventilation ERP](https://github.com/Mokona5901/Projet-ERP/tree/Sofiane)** – School project for ERP system ventilation 🌬️
-- ![Static Badge](https://img.shields.io/badge/Status-Completed-green)
+![Static Badge](https://img.shields.io/badge/Status-Completed-green)
