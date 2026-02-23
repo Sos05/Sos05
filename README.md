@@ -32,11 +32,14 @@
 
 
 ## ⭐ Projects
-- **[BOBOLE-BOT](https://github.com/Sos05/BOBOLE-BOT/)** – A personal Discord utility bot 🛠️
+- **[BOBOLE-BOT](https://github.com/Sos05/BOBOLE-BOT)** – A personal Discord utility bot 🛠️
 ![Static Badge](https://img.shields.io/badge/Status-Completed%20Active%20maintenance-green)
 
-- **[DNS-Home-Server](https://github.com/Sos05/DNS-Home-Server/)** – Local DNS server for ad blocking (Pi-hole) 🛡️
+- **[DNS-Home-Server](https://github.com/Sos05/DNS-Home-Server)** – Local DNS server for ad blocking (Pi-hole) 🛡️
 ![Static Badge](https://img.shields.io/badge/Status-Completed-green)
 
 - **[Projet Ventilation ERP](https://github.com/Mokona5901/Projet-ERP/tree/Sofiane)** – School project for ERP system ventilation 🌬️
+![Static Badge](https://img.shields.io/badge/Status-Completed-green)
+
+- **[Projet Ventilation ERP](https://github.com/Sos05/SAE-BUT3)** – School project for network infrastructure and services management 🌐
 ![Static Badge](https://img.shields.io/badge/Status-Completed-green)
