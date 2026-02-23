@@ -41,5 +41,5 @@
 - **[Projet Ventilation ERP](https://github.com/Mokona5901/Projet-ERP/tree/Sofiane)** – School project for ERP system ventilation 🌬️
 ![Static Badge](https://img.shields.io/badge/Status-Completed-green)
 
-- **[Projet Ventilation ERP](https://github.com/Sos05/SAE-BUT3)** – School project for network infrastructure and services management 🌐
+- **[SAÉ Évolution d'une infrastructure](https://github.com/Sos05/SAE-BUT3)** – School project for network infrastructure and services management 🌐
 ![Static Badge](https://img.shields.io/badge/Status-Completed-green)
