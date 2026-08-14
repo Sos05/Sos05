@@ -48,8 +48,8 @@
 
 - **[Projet Ventilation ERP](https://github.com/Mokona5901/Projet-ERP/tree/Sofiane)** – Supervision d'une ventilation via RaspberryPi, MQTT et base de données PostgreSQL 🌬️<img src="https://img.shields.io/badge/Status-Completed-green" align="center" alt="Static Badge">
 
+- **[DNS-Home-Server](https://github.com/Sos05/DNS-Home-Server)** – Serveur DNS local pour blocage publicitaire (Pi-hole) 🛡️<img src="https://img.shields.io/badge/Status-Completed-green" align="center" alt="Static Badge">
+
 <div align="center" style="display:flex; justify-content:center; align-items:center; gap:10px;">
   <img src="https://github-stats-extended.vercel.app/api?username=Sos05&rank_icon=default&hide_rank=true&show_icons=true&include_all_commits=true&theme=github_dark" height="190" width="300">
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Sos05&layout=compact&langs_count=8&theme=github_dark" height="190" width="300"><br><br>
-
-- **[DNS-Home-Server](https://github.com/Sos05/DNS-Home-Server)** – Serveur DNS local pour blocage publicitaire (Pi-hole) 🛡️<img src="https://img.shields.io/badge/Status-Completed-green" align="center" alt="Static Badge">
